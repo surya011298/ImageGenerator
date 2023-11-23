@@ -1,0 +1,6 @@
+framework module Pods_ImageGenerator {
+  umbrella header "Pods-ImageGenerator-umbrella.h"
+
+  export *
+  module * { export * }
+}
